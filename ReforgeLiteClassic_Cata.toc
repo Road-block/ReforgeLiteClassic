@@ -1,0 +1,14 @@
+## Interface: 40400
+## Author: Roadblock (Classic)
+## X-OriginalAuthor: d07.RiV (Iroared)
+## Title: ReforgeLite|cffdd571cCata|r
+## IconTexture: Interface\CURSOR\Reforge
+## Notes: Calculates optimal reforging for given weights/caps.
+## Version: 1.11
+## SavedVariables: ReforgeLiteDB
+
+CATA\Localization.lua
+CATA\GUI.lua
+CATA\ReforgeLite.lua
+CATA\ReforgeEngine.lua
+CATA\Presets.lua

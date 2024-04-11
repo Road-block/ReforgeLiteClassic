@@ -1,0 +1,20 @@
+## Interface: 50500
+## Author: Roadblock (Classic)
+## X-OriginalAuthor: d07.RiV (Iroared)
+## Title: ReforgeLite|cff07724dMoP|r
+## IconTexture: Interface\CURSOR\Reforge
+## Notes: Calculates optimal reforging for given weights/caps.
+## Version: 1.3.9
+## SavedVariables: ReforgeLiteDB
+
+## LoadOnDemand: 1
+## LoadWith: Blizzard_ReforgingUI
+
+MOP\Localization.lua
+MOP\Scaling.lua
+MOP\GUI.lua
+MOP\ReforgeLite.lua
+MOP\ReforgeEngine.lua
+MOP\Parsers.lua
+MOP\Presets.lua
+MOP\TaskUI.lua
